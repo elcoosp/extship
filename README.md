@@ -74,11 +74,11 @@ Usage:
 
 ```json
 {
-  "scripts": {
-    "store:validate": "extship --validate-only",
-    "store:dry-run": "extship --dry-run",
-    "store:sync": "extship"
-  }
+	"scripts": {
+		"store:validate": "extship --validate-only",
+		"store:dry-run": "extship --dry-run",
+		"store:sync": "extship"
+	}
 }
 ```
 
@@ -126,4 +126,4 @@ storeListing:
 ## Status
 
 > [!NOTE]
-> Active v0.1.0 release used in production for [`context-braid`](https://github.com/elcoosp/context-braid) and [`vexel`](https://github.com/elcoosp/vexel). Note that `docs/logo.png` is referenced via jsDelivr and can be customized at any time.
+> Active v0.1.0 release used in production for [`context-braid`](https://github.com/elcoosp/context-braid) and [`vexel`](https://github.com/elcoosp/vexel).
